@@ -5,8 +5,8 @@
 ## 모의크라우드펀딩 3등 AWS 상장 수여 🎉
 <img src = "https://github.com/user-attachments/assets/a8804de3-7e42-4717-b332-53124c597cb3" width="50%" height="50%">
 
-## 팀원
-곽범석, 김지윤, 노윤희, 임지원
+## 팀명(팀원)
+지범지윤 (곽범석, 김지윤, 노윤희, 임지원)
 
 ## 프로젝트 개요
 
