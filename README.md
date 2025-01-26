@@ -2,10 +2,8 @@
 
 > 한국관광공사 데이터랩 통계에 따르면, 강원도 방문율은 청년층에 비해 노인층이 높음을 볼 수 있습니다. 이를 개선하기 위해 젊은 층을 타겟으로 한 스마트워치 관광 소프트웨어 '해피홉(HappyHop)'을 제안합니다.
 
-## 모의크라우드펀딩 3위 AWS 상장 수여 🎉
-![ㅇㅇㅇ](https://github.com/user-attachments/assets/a8804de3-7e42-4717-b332-53124c597cb3)
-
-
+## 모의크라우드펀딩 3등 AWS 상장 수여 🎉
+<img src = "https://github.com/user-attachments/assets/a8804de3-7e42-4717-b332-53124c597cb3" width="50%" height="50%">
 
 ## 팀원
 곽범석, 김지윤, 노윤희, 임지원
